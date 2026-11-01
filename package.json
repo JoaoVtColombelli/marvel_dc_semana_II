@@ -1,0 +1,24 @@
+{
+  "name": "marvel_dc_semana_ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVtColombelli/marvel_dc_semana_II.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JoaoVtColombelli/marvel_dc_semana_II/issues"
+  },
+  "homepage": "https://github.com/JoaoVtColombelli/marvel_dc_semana_II#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
